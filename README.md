@@ -27,8 +27,9 @@ Start date: 02/01/2020
 
 ### Day 3
 * 分离配置文件&emsp; Separate configuration files.
-* 实现Session和Cookie，使保持登录态&emsp; Session and Cookie are used to keep user stay log-in status.    
+* 实现Session和Cookie，使保持登录态&emsp; Session and Cookie are used to keep user stay login status.    
 
 ### Day 4
 * 使用MySQL搭建数据库并创建用户表&emsp; Set up a database through MySQL and create an 'user' table.     
 * 集成MyBatis并插入用户数据&emsp; Set up MyBatis with Spring and insert data int 'user' table.
+* 实现持久化登录态&emsp; Implement login status persistence.
