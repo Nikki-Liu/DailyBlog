@@ -4,7 +4,9 @@ Start date: 02/01/2020
 ## Refference
 [Spring documents](https://Spring.io/guides): Main framework.   
 [Bootstrap](https://v3.bootcss.com/components): Used to build a web.   
-[Github OAuth App](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/): Used to obtain login authorization from GitHub.  
+[Github OAuth App](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/): Used to obtain login authorization from GitHub.
+[Spring](https://docs.spring.io/spring-boot/docs/2.0.0.RC1/reference/htmlsingle/#boot-features-connect-to-production-database): 29.1.2 Connection to a Production Database.
+[MyBatis+SpringBoot](http://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/): Set up MyBatis with Spring.  
 
 ## Tools
 [Git](https://git-scm.com)    
@@ -25,4 +27,8 @@ Start date: 02/01/2020
 
 ### Day 3
 * 分离配置文件&emsp; Separate configuration files.
-* 
+* 实现Session和Cookie，使保持登录态&emsp; Session and Cookie are used to keep user stay log-in status.    
+
+### Day 4
+* 使用MySQL搭建数据库并创建用户表&emsp; Set up a database through MySQL and create an 'user' table.     
+* 集成MyBatis并插入用户数据&emsp; Set up MyBatis with Spring and insert data int 'user' table.
